@@ -30,12 +30,15 @@ body {
   color:darkmagenta;
   font-size: 3em;
   margin: 0% 2% 0% 2%;
+  border-color: aqua;
+  border-style: groove;
 }
 
 .largeHeader {
   font-size: 3.5em;
   font-weight: bold;
   color:deeppink;
+  border-style: dashed;
 }
 
 .smallHeader {
