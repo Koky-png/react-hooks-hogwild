@@ -67,3 +67,4 @@ Semantic will take care of assigning the columns for you. You can also try
 implementing [Semantic Cards](https://semantic-ui.com/views/card.html) for each
 hog.
 # code-Challenge-phase2
+# phase-2-code-challenge
