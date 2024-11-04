@@ -27,7 +27,7 @@ body {
 }
 
 .headerText {
-  color: #F5A9BC;
+  color:darkmagenta;
   font-size: 3em;
   margin: 0% 2% 0% 2%;
 }
@@ -35,7 +35,7 @@ body {
 .largeHeader {
   font-size: 3.5em;
   font-weight: bold;
-  color: #3B0B0B;
+  color:deeppink;
 }
 
 .smallHeader {
@@ -45,7 +45,7 @@ body {
 }
 
 .normalText {
-  font-family: Georgia, serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-size: .75em;
 }
 
@@ -54,7 +54,7 @@ body {
 }
 
 .achievementText {
-  color: purple;
+  color:fuchsia;
 }
 
 ul {
@@ -69,7 +69,7 @@ ul {
 }
 
 .subtleText {
-  color: #D1D1D1;
+  color:indianred;
   font-size: .75em;
 }
 
@@ -109,7 +109,7 @@ ul {
 }
 
 .pigTile h3 {
-  color: #FBB;
+  color:lightpink;
 }
 
 .minPigTile {
